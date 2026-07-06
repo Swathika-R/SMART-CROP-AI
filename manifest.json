@@ -1,0 +1,19 @@
+{
+  "name": "CropAI Intelligent Crop Platform",
+  "short_name": "CropAI",
+  "description": "AI-powered crop recommendations and plant disease detection for modern agriculture.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B2216",
+  "theme_color": "#2E8B57",
+  "orientation": "portrait-primary",
+  "categories": ["agriculture", "utilities"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌱</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
